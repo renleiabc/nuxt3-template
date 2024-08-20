@@ -1,4 +1,5 @@
-# nuxt3-templete Nuxt 3 为框架搭建起来的服务端渲染项目,集成了esbuild,prettier,element-plus,pinia,tailwindcss,sass,i18n等常用框架和插件
+# nuxt3-template
+nuxt3-template Nuxt3 为框架搭建起来的服务端渲染项目,集成了esbuild,prettier,element-plus,pinia,tailwindcss,sass,i18n等常用框架和插件
 
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
